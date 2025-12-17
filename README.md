@@ -1134,18 +1134,4 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ---
 
-## 📧 Support & Contact
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/ffmpeg-wizard/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/ffmpeg-wizard/discussions)
-- **Email:** support@ffmpeg-wizard.com
-
----
-
-<div align="center">
-
-**Made with ❤️ for content creators worldwide**
-
-[⭐ Star us on GitHub](https://github.com/yourusername/ffmpeg-wizard) • [📖 Documentation](https://docs.ffmpeg-wizard.com) • [🐛 Report Bug](https://github.com/yourusername/ffmpeg-wizard/issues)
-
 </div>
